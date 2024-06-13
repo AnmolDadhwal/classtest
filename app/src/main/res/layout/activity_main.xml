@@ -189,23 +189,16 @@
         app:layout_constraintEnd_toEndOf="@id/v_gh_85"
         app:layout_constraintStart_toStartOf="@id/v_gh_55"
         app:layout_constraintTop_toTopOf="@id/h_gh_35" />
-    <TextView
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:text="@string/oneway"
-        android:padding="@dimen/dp_10"
+        android:text="@string/one_way"
         android:background="@color/orange"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="@id/h_gh_75"
         app:layout_constraintEnd_toEndOf="@id/v_gh_45"
         app:layout_constraintStart_toStartOf="@id/v_gh_10"
         app:layout_constraintTop_toTopOf="@id/h_gh_70" />
-    <com.google.android.material.materialswitch.MaterialSwitch
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        app:layout_constraintBottom_toBottomOf="@id/h_gh_75"
-        app:layout_constraintEnd_toEndOf="@id/v_gh_45"
-        app:layout_constraintTop_toTopOf="@id/h_gh_70"/>
     <TextView
         android:layout_width="0dp"
         android:layout_height="0dp"
