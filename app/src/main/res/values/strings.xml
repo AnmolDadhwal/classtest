@@ -8,4 +8,8 @@
     <string name="space">Space Station</string>
     <string name="flights">Flights</string>
     <string name="rovers">Rovers</string>
+    <string name="oneway">One Way\n</string>
+    <string name="itraveller">I Traveller\n</string>
+    <string name="fight">Flights</string>
+    <string name="Rovers">Rovers</string>
 </resources>
