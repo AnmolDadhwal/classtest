@@ -195,6 +195,7 @@
         android:text="@string/one_way"
         android:background="@color/orange"
         android:textColor="@color/white"
+        android:paddingStart="@dimen/dp_10"
         app:layout_constraintBottom_toBottomOf="@id/h_gh_75"
         app:layout_constraintEnd_toEndOf="@id/v_gh_45"
         app:layout_constraintStart_toStartOf="@id/v_gh_10"
